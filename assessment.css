@@ -1,0 +1,16 @@
+body {
+    background:#04a6eb;
+    color:#fdffff;
+    width: 500px; /*横幅の太さを指定*/
+    margin-right: auto;/*右側のマージンを自動調整*/
+    margin-left: auto;/*左側のマージンを自動調整*/
+}
+button {
+    padding: 5px 20px;/*padding属性は、要素の内側の余白を設定できる。上下5px、左右20px。marginは境界線より外側の余白。paddingは境界線より内側の余白。*/
+    background-color: #337ab7;
+    color: #fdffff;
+    border-style: none; /*境界線のスタイル。noneは境界線を表示しない。*/
+}
+input {
+    height: 23px; /*入力欄の高さ。*/
+}
